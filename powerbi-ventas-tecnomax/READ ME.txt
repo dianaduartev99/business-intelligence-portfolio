@@ -1,0 +1,61 @@
+# 📊 Análisis de Ventas TECNOMAX
+
+## 📖 Descripción
+
+Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para analizar el desempeño de ventas de la empresa ficticia TECNOMAX.
+
+El objetivo es transformar los datos de ventas en información útil para apoyar la toma de decisiones mediante indicadores, filtros interactivos y visualizaciones dinámicas.
+
+---
+
+## 🎯 Objetivos
+
+- Analizar el comportamiento de las ventas.
+- Identificar tendencias comerciales.
+- Facilitar la exploración de la información mediante filtros.
+- Crear un dashboard intuitivo para el seguimiento de indicadores de negocio.
+
+---
+
+## 🛠 Herramientas utilizadas
+
+- Power BI
+- Power Query
+- DAX
+
+---
+
+
+## 📊 Visualizaciones
+
+El dashboard incluye:
+
+- Indicadores (KPIs)
+- Gráficos de columnas
+- Gráficos de líneas
+- Tabla dinámica (Matrix)
+- Segmentadores (Slicers)
+
+---
+
+## 📈 Análisis realizado
+
+El dashboard permite analizar:
+
+- Evolución de las ventas en el tiempo.
+- Comparación entre categorías.
+- Rendimiento por vendedor.
+- Distribución de ventas por distintos criterios.
+- Filtrado dinámico de la información.
+
+---
+
+## 💡 Habilidades demostradas
+
+- Modelado de datos
+- Transformación de datos
+- Diseño de dashboards
+- Creación de medidas DAX
+- Visualización de información
+- Storytelling con datos
+

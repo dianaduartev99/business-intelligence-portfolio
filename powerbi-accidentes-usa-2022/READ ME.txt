@@ -1,0 +1,67 @@
+# 🚗 Análisis de Accidentes en Estados Unidos (2022)
+
+## 📖 Descripción
+
+Este proyecto presenta un análisis interactivo de los accidentes de tránsito registrados en Estados Unidos durante el año 2022 utilizando Power BI.
+
+El objetivo es identificar patrones geográficos y temporales mediante visualizaciones que permitan comprender mejor el comportamiento de los accidentes.
+
+---
+
+## 🎯 Objetivos
+
+- Analizar la distribución de accidentes.
+- Identificar los estados con mayor cantidad de accidentes.
+- Analizar la severidad de los accidentes.
+- Explorar la influencia del clima y el horario.
+- Presentar la información mediante dashboards interactivos.
+
+---
+
+## 🛠 Herramientas utilizadas
+
+- Power BI
+- Power Query
+- DAX
+
+---
+
+## 📂 Datos utilizados
+
+Dataset público de accidentes de tránsito ocurridos en Estados Unidos durante el año 2022.
+
+---
+
+## 📊 Visualizaciones
+
+El dashboard incluye:
+
+- KPIs
+- Mapas
+- Gráficos de barras
+- Gráficos de líneas
+- Segmentadores
+- Tablas
+
+---
+
+## 📈 Análisis realizado
+
+El dashboard permite responder preguntas como:
+
+- ¿Qué estados registran más accidentes?
+- ¿En qué meses ocurren más accidentes?
+- ¿Cómo varía la severidad?
+- ¿Qué condiciones climáticas aparecen con mayor frecuencia?
+- ¿Cómo influye la hora del día?
+
+---
+
+## 💡 Habilidades demostradas
+
+- Limpieza de datos
+- Transformación de datos
+- Modelado de datos
+- DAX
+- Storytelling con datos
+- Business Intelligence
